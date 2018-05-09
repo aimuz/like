@@ -10,4 +10,4 @@
 
 ### Go社区
 
-[gocn.io](https://gocn.io/) Go中国技术社区
+[Gocn.io](https://gocn.io/) Go中国技术社区
