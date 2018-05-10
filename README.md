@@ -6,6 +6,8 @@
 
 [Github](https://github.com/) 全球最大的同性交友社区
 
+[Stackoverflow](https://stackoverflow.com/) 面向全球的问答社区，可能你遇到的问题，都有解决
+
 ## 常用工具类
 
 [Tool.lu](https://tool.lu/) 包含json格式化，css格式化，等诸多工具
