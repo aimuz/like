@@ -8,6 +8,8 @@
 
 ## 常用工具类
 
+[Tool.lu](https://tool.lu/) 包含json格式化，css格式化，等诸多工具
+
 ### 正则
 
 [Regexper](https://regexper.com/#%5B%5Cw-.%5D%2B%40%5B%5Cw-%5D%2B%28.%5B%5Cw_-%5D%2B%29%2B) 可视化正则表达式
@@ -21,3 +23,5 @@
 [Studygolang](https://studygolang.com/) GO语言中文网
 
 ## 程序员私活
+
+[程序员客栈](https://www.proginn.com/) 可以接活
