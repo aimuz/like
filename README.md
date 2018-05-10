@@ -25,3 +25,9 @@
 ## 程序员私活
 
 [程序员客栈](https://www.proginn.com/) 可以接活
+
+## 刷题
+
+[http://codeforces.com](http://codeforces.com/problemset) 有各种算法问题，可以提高自己的专业水平
+
+[https://pintia.cn/problem-sets](https://pintia.cn/problem-sets) 里面含有各种题库，包含入门到高级的问题，原地址为[https://www.patest.cn/contests](https://www.patest.cn/contests) 现已经迁移至上面地址
