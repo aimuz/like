@@ -31,3 +31,7 @@
 [http://codeforces.com](http://codeforces.com/problemset) 有各种算法问题，可以提高自己的专业水平
 
 [https://pintia.cn/problem-sets](https://pintia.cn/problem-sets) 里面含有各种题库，包含入门到高级的问题，原地址为[https://www.patest.cn/contests](https://www.patest.cn/contests) 现已经迁移至上面地址
+
+[Leetcode.com](https://leetcode.com/problemset/all/) 也是一个刷题的，包含各种中高级问题
+
+[Codewars](https://www.codewars.com/) 这个题库和上面的不同是，这个是通过段位显示，并且排名，并且当你正确回答的时候可以看到其他的怎么正确回答的，常可发现奇淫技巧
