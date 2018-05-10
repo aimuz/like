@@ -14,7 +14,7 @@
 
 [similarweb](https://www.similarweb.com/) 网站流量查询
 
-[optimizilla.com](http://optimizilla.com/zh/) 在线图片优化,上传头像但是体积太大？
+[optimizilla.com](http://optimizilla.com/zh/) 在线图片压缩优化,上传头像但是体积太大？
 
 [chuantu.biz](https://www.chuantu.biz/) 免费图片上传,上传图片获取网络链接，6年无广告良心站
 
