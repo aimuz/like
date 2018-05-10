@@ -12,6 +12,13 @@
 
 [visualgo](https://visualgo.net/zh) 一个神奇的网站，数据结构和算法可以动态可视化
 
+[similarweb](https://www.similarweb.com/) 网站流量查询
+
+[在线图片优化](http://optimizilla.com/zh/) 上传头像但是体积太大？
+
+[免费图片上传](https://www.chuantu.biz/) 上传图片获取网络链接，6年无广告良心站
+
+
 ### 正则
 
 [Regexper](https://regexper.com/#%5B%5Cw-.%5D%2B%40%5B%5Cw-%5D%2B%28.%5B%5Cw_-%5D%2B%29%2B) 可视化正则表达式
