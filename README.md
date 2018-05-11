@@ -42,7 +42,7 @@
 
 [程序员客栈](https://www.proginn.com/) 可以接活
 
-## 刷题
+## 算法&练习
 
 [http://codeforces.com](http://codeforces.com/problemset) 有各种算法问题，可以提高自己的专业水平
 
