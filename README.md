@@ -22,6 +22,7 @@
 
 [菜鸟工具](https://c.runoob.com/) 在线运行诸多编程语言，如GO,Python,php,ruby 等
 
+[Golib.app](https://golib.app/tools) 可以把json，xml转成Go的struct 结构体，省力
 
 ### 正则
 
