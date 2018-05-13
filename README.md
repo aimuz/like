@@ -53,3 +53,7 @@
 [Leetcode.com](https://leetcode.com/problemset/all/) 也是一个刷题的，包含各种中高级问题
 
 [Codewars](https://www.codewars.com/) 这个题库和上面的不同是，这个是通过段位显示，并且排名，并且当你正确回答的时候可以看到其他的怎么正确回答的，常可发现奇淫技巧
+
+## 一些有趣的H5
+
+[mikutap](https://aidn.jp/mikutap/) 随便敲敲键盘创作有魔性的曲子
