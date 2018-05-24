@@ -38,6 +38,10 @@
 
 [Regulex](https://jex.im/regulex/) 正则可视化工具，和上面类似
 
+### 数据科学
+
+[Sofasofa](http://sofasofa.io/index.php) 数据科学社区
+
 ## 编程语言
 
 ### Go
