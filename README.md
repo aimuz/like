@@ -32,6 +32,8 @@
 
 [Jsnice.org](http://jsnice.org/) js 反混淆，可以把混淆后的代码，编译成利于人阅读格式
 
+[SSLForFree](https://www.sslforfree.com/) 在线生成SSL证书
+
 ### 正则
 
 [Regexper](https://regexper.com/#%5B%5Cw-.%5D%2B%40%5B%5Cw-%5D%2B%28.%5B%5Cw_-%5D%2B%29%2B) 可视化正则表达式
