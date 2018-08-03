@@ -34,6 +34,10 @@
 
 [SSLForFree](https://www.sslforfree.com/) 在线生成SSL证书
 
+## 略屌工具集
+
+[wakatime.com](https://wakatime.com/dashboard) 可以统计日常编写代码的使用情况
+
 ### 正则
 
 [Regexper](https://regexper.com/#%5B%5Cw-.%5D%2B%40%5B%5Cw-%5D%2B%28.%5B%5Cw_-%5D%2B%29%2B) 可视化正则表达式
