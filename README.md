@@ -10,6 +10,8 @@
 
 [Stackoverflow](https://stackoverflow.com/) 面向全球的问答社区，可能你遇到的问题，都有解决
 
+[Kezhan.io](https://Kezhan.io) 史上最强中文社区
+
 ## 常用工具类
 
 [Tool.lu](https://tool.lu/) 包含json格式化，css格式化，等诸多工具
